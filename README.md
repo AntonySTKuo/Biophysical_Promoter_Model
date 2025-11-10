@@ -22,7 +22,7 @@ We experimentally characterized two types of promoter libraries differing in the
   * PL<sub>LuxR</sub>
   * PL<sub>CueR</sub>
 
-Here, TetR, LuxR, and CueR are TFs that regulate promoter activity.
+Here, TetR, LuxR, and CueR are the associated TFs that regulate promoter activity.
 All processed datasets are available in the `tables/` folder.
 
 ---
