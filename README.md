@@ -6,7 +6,7 @@ This project aims to quantify the sequence contributions of the −35 and −10 
 
 ## Experimental Datasets
 
-We experimentally characterized two types of promoter libraries differing in their regulatory mechanisms:
+All experimental datasets are available in the `tables/` folder, which contains two types of promoter libraries differing in their regulatory mechanisms:
 
 * **Constitutive promoter libraries** <br>
   Constitutive promoters drive transcription without regulatory control. <br>
@@ -23,7 +23,6 @@ We experimentally characterized two types of promoter libraries differing in the
   * PL<sub>CueR</sub>
 
 Here, TetR, LuxR, and CueR are the associated TFs that regulate promoter activity.
-All processed datasets are available in the `tables/` folder.
 
 ---
 
