@@ -4,7 +4,7 @@ This modeling project aims to quantify the sequence contributions of the −35 a
 
 ---
 
-## Experimental Overview
+## Experimental datasets
 
 In this study, we experimentally characterized two types of promoter libraries differing in their regulatory mechanisms:
 
@@ -25,7 +25,7 @@ All processed datasets are available in the folder: `tables/`
 
 ---
 
-## Modeling Approaches
+## Modeling fitting
 
 ### Constitutive Promoter Libraries
 For constitutive promoters, we adopted our previous **PAS model** ([Promoter_Architecture_Scanner](https://github.com/AntonySTKuo/Promoter_Architecture_Scanner)) to quantify the sequence contributions of the −35 and −10 elements.  
@@ -42,11 +42,10 @@ For TF-regulated promoters, we employed two fitting approaches:
    Models were jointly fitted to the basal and induced datasets but constrained to share a common parameter set.  
    Implementation: `scripts/ModelFit_TF-shared.py`
 
+The resulting models are available in the folder:  `models/`.
+
 ---
+## Visualization
 
-## Output Files
-
-- **Model results:** `models/`  
-- **Visualization scripts:** Jupyter notebooks in `scripts/`  
-- **Generated figures:** `figures/`
+The resulting models can be visualized using the scripts Jupyter notebooks in `scripts/`, generating the figures available in  `figures/`.
 
