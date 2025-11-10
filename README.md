@@ -23,7 +23,7 @@ All processed datasets are available in the folder: `tables/`
 ## Modeling Approaches
 
 ### Constitutive Promoter Libraries
-For constitutive promoters, we adopted our previously developed **PAS model** ([Promoter_Architecture_Scanner](https://github.com/AntonySTKuo/Promoter_Architecture_Scanner)) to quantify the sequence contributions of the −35 and −10 elements.  
+For constitutive promoters, we adopted our previous **PAS model** ([Promoter_Architecture_Scanner](https://github.com/AntonySTKuo/Promoter_Architecture_Scanner)) to quantify the sequence contributions of the −35 and −10 elements.  
 Implementation: `scripts/ModelFit_PAS.py`
 
 ### TF-Regulated Promoter Libraries
