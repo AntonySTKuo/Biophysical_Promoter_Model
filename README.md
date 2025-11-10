@@ -1,2 +1,3 @@
-# Biophysical_Models_of_Bacterial_Promoters-
+# Biophysical Promoter Model
+
 temp...
