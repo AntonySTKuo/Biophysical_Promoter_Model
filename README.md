@@ -38,11 +38,11 @@ Implementation: `scripts/ModelFit_PAS.py`
 For TF-regulated promoters, we employed two fitting approaches:
 
 1. **Independent fitting**
-   Models were fitted separately to the basal and induced datasets, resulting in two distinct parameter sets.
+   Models were fitted independently to the basal and induced datasets, resulting in two distinct parameter sets.
    Implementation: `scripts/ModelFit_TF-separate.py`
 
-2. **Shared-parameter fitting**
-   Models were jointly fitted to the basal and induced datasets, constrained to share a common parameter set.
+3. **Shared-parameter fitting**
+   Models were fitted to the basal and induced datasets, constrained to share a single common parameter set.
    Implementation: `scripts/ModelFit_TF-shared.py`
 
 All fitted models are available in the `models/` folder.
