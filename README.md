@@ -8,8 +8,8 @@ This modeling project aims to quantify the sequence contributions of the −35 a
 
 In this study, we experimentally characterized:
 
-- **Constitutive promoter libraries**: PLC17 and PLC16  
-- **Transcription factor (TF)-regulated promoter libraries**: PLTetR, PLLuxR, and PLCueR  
+- **Constitutive promoter libraries**: PL<sub>C17</sub> and PL<sub>C16</sub>  
+- **Transcription factor (TF)-regulated promoter libraries**: PL<sub>TetR</sub>, PL<sub>LuxR</sub>, and PL<sub>CueR</sub>  
 
 Here, TetR, LuxR, and CueR are transcription factors that regulate promoter activity.  
 The TF-regulated libraries were characterized under two conditions:
