@@ -6,17 +6,22 @@ This modeling project aims to quantify the sequence contributions of the −35 a
 
 ## Experimental Overview
 
-In this study, we experimentally characterized:
+In this study, we experimentally characterized two types of promoter libraries differing in their regulatory mechanisms:
 
-- **Constitutive promoter libraries**: PL<sub>C17</sub> and PL<sub>C16</sub>  
-- **Transcription factor (TF)-regulated promoter libraries**: PL<sub>TetR</sub>, PL<sub>LuxR</sub>, and PL<sub>CueR</sub>  
+- **Constitutive promoter libraries**  
+  Constitutive promoters control transcription without being regulated.  
+  - PL<sub>C17</sub>  
+  - PL<sub>C16</sub>  
+
+- **Transcription factor (TF)-regulated promoter libraries**  
+  These promoters require specific TFs to modulate transcription activity in response to chemical inducers. Each library was characterized under two conditions: **Basal**: absence of the corresponding inducer; **Induced**: presence of the corresponding saturating inducer controlling TF activity.
+  - PL<sub>TetR</sub>
+  - PL<sub>LuxR</sub>
+  - PL<sub>CueR</sub>
 
 Here, TetR, LuxR, and CueR are transcription factors that regulate promoter activity.  
-The TF-regulated libraries were characterized under two conditions:
-- **Basal** (absence of inducer)
-- **Induced** (presence of the corresponding saturating inducer controlling TF activity)
-
 All processed datasets are available in the folder: `tables/`
+
 
 ---
 
