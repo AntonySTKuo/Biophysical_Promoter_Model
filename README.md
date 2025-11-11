@@ -1,6 +1,6 @@
 # Biophysical Promoter Model
 
-This project aims to quantify the sequence contributions of the −35 and −10 elements in bacterial promoters within a thermodynamic framework. Detailed model formulations, interpretations, and methodologies are described in the accompanying article.
+This project aims to quantify the sequence contributions of the -35 and -10 elements in bacterial promoters within a thermodynamic framework. Detailed model formulations, interpretations, and methodologies are described in the accompanying article.
 
 ---
 
