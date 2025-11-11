@@ -30,7 +30,7 @@ Here, TetR, LuxR, and CueR are the associated TFs that regulate promoter activit
 
 ### Constitutive Promoter Libraries
 
-For constitutive promoters, we applied the **PAS model** ([Promoter_Architecture_Scanner](https://github.com/AntonySTKuo/Promoter_Architecture_Scanner)) to quantify the sequence contributions of the −35 and −10 elements.
+For constitutive promoters, we applied the **PAS model** ([Promoter_Architecture_Scanner](https://github.com/AntonySTKuo/Promoter_Architecture_Scanner)) to quantify the sequence contributions of the -35 and -10 elements.
 Implementation: `scripts/ModelFit_PAS.py`
 
 ### TF-Regulated Promoter Libraries
