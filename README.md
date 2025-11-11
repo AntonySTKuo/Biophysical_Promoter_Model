@@ -52,3 +52,14 @@ All fitted models are available in the `models/` folder.
 ## Visualization
 
 Model results can be visualized using the provided Jupyter notebooks in `scripts/`, which generate the figures available in the `figures/` folder.
+
+---
+
+## Environment
+
+If you want to run the modeling project on your own, please set up the Python environment using **conda**:
+
+```bash
+conda env create -f environment.yml
+```
+
