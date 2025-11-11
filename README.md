@@ -57,9 +57,10 @@ Model results can be visualized using the provided Jupyter notebooks in `scripts
 
 ## Environment
 
-If you want to run the modeling project on your own, please set up the Python environment using **conda**:
+If you want to run the modeling project on your own, please set up the Python environment using conda to create it from the configuration file `environment.yml`:
 
-```bash
+```
+# bash
 conda env create -f environment.yml
 ```
 
