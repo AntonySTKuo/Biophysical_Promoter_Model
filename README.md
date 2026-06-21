@@ -80,4 +80,11 @@ If you want to run the modeling project on your own, please set up the Python en
 # bash
 conda env create -f environment.yml
 ```
+### Additional Source Data
 
+Due to journal file size limitations, the source data for Fig. 2b–d and Fig. S10a are provided separately in the `source_data/` folder:
+
+* `Source Data_Fig2b-d.xlsx`
+* `Source Data_FigS10a.xlsx`
+
+These files are included for reader access and are independent of the modeling workflow described in this repository.
